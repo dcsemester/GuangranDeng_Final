@@ -1,0 +1,786 @@
+CLA,FARM,PARITY,AGE,BCS0,BCS30,BCS45,BCS60,DISEASE,SNP,MILK
+Yes,DPM,Primiparous,30,3,2.75,2.75,3,No Disease,BB,22.768
+Yes,DPM,Primiparous,29,3.5,2.75,3,3,No Disease,BB,27.001
+No,DPM,Primiparous,32,3,2.75,2.75,2.75,No Disease,AB,23.857
+Yes,DPM,Primiparous,29,3,2.75,3,3.25,No Disease,AA,24.839
+Yes,DPM,Primiparous,29,2.5,2.75,2.75,3.25,No Disease,AA,23.682
+Yes,DPM,Primiparous,31,3.25,3,3,3,No Disease,AA,27.461
+Yes,DPM,Primiparous,30,3.25,3,2.75,2.75,No Disease,AB,16.964
+No,DPM,Primiparous,30,3,2.75,2.75,2.75,No Disease,BB,24.845
+Yes,DPM,Primiparous,27,3.5,3.25,3.25,3.25,No Disease,AB,22.313
+Yes,DPM,Primiparous,27,3.25,2.5,2.5,2.5,No Disease,AA,22.855
+Yes,DPM,Primiparous,30,3,2.75,2.75,3,No Disease,AA,25.115
+Yes,DPM,Primiparous,28,2.75,2.75,2.75,2.75,No Disease,AA,17.928
+Yes,DPM,Primiparous,27,3.25,3,3,3,No Disease,AA,23.207
+Yes,DPM,Primiparous,28,3,2.75,2.75,2.75,No Disease,AB,20.206
+Yes,DPM,Primiparous,27,3,3,3,3,No Disease,AB,23.068
+Yes,DPM,Primiparous,27,3,3,3.25,3,No Disease,AB,17.709
+Yes,DPM,Primiparous,27,3.25,3.25,3.25,3,No Disease,AB,18.974
+Yes,DPM,Primiparous,29,3,3,3,2.75,No Disease,AA,25.552
+No,DPM,Primiparous,27,3,2.5,2.5,2.5,No Disease,AB,20.579
+Yes,DPM,Primiparous,27,3,2.5,2.5,2.75,No Disease,AA,22.999
+Yes,DPM,Primiparous,29,3,3,3,3,No Disease,BB,31.024
+No,DPM,Primiparous,26,3,2.75,2.75,2.75,No Disease,AB,27.283
+Yes,DPM,Primiparous,24,2.5,2.25,2.25,2.5,No Disease,BB,20.827
+Yes,DPM,Primiparous,24,3,3,3.25,3.25,No Disease,AB,22.426
+No,DPM,Primiparous,27,2.75,2.75,2.75,2.75,No Disease,AB,29.672
+Yes,DPM,Primiparous,25,3.25,2.75,2.75,3,No Disease,AB,20.868
+No,DPM,Primiparous,27,3,2.75,2.75,2.75,No Disease,AB,24.97
+Yes,DPM,Primiparous,24,3.25,2.75,3,2.75,No Disease,AB,28.492
+Yes,DPM,Primiparous,24,2.5,2.5,2.75,2.75,No Disease,AB,22.659
+No,DPM,Primiparous,27,3,2.75,2.75,2.75,No Disease,AB,26.594
+Yes,DPM,Primiparous,27,3,2.75,3,3,No Disease,BB,29.608
+Yes,DPM,Primiparous,24,2.5,2.75,2.75,2.75,No Disease,AB,27.124
+Yes,DPM,Primiparous,24,2.75,3,3,3.25,No Disease,AA,17.348
+Yes,DPM,Multiparous,53,2.75,2.25,2.25,2.5,No Disease,AB,27.58
+Yes,DPM,Multiparous,48,2.75,2.75,2.75,2.5,No Disease,AA,27.281
+Yes,DPM,Multiparous,47,2.5,2.75,2.75,2.5,No Disease,AA,28.703
+No,DPM,Multiparous,48,3,2.75,2.75,2.75,No Disease,AB,26.632
+Yes,DPM,Multiparous,45,2.75,2.25,2.75,2.75,No Disease,AB,27.952
+No,DPM,Multiparous,44,3,2.75,2.75,2.75,No Disease,AA,33.788
+Yes,DPM,Multiparous,47,3.25,3,2.75,2.75,No Disease,AB,25.948
+Yes,DPM,Multiparous,45,2.75,2.75,2.75,2.75,No Disease,AB,24.811
+Yes,DPM,Multiparous,43,2.5,2.75,2.75,2.75,No Disease,AB,33.418
+No,DPM,Multiparous,46,2.75,2.75,2.75,2.75,No Disease,AA,39.458
+Yes,DPM,Multiparous,44,3,3,2.75,2.75,No Disease,AB,34.659
+Yes,DPM,Multiparous,43,3.25,3,2.75,2.75,No Disease,BB,34.742
+Yes,DPM,Multiparous,42,2.75,2.75,2.75,2.75,No Disease,AA,36.129
+Yes,DPM,Multiparous,41,2.75,2.75,2.75,3,No Disease,AB,32.122
+Yes,DPM,Multiparous,42,3.25,2.75,3,3,No Disease,AB,26.323
+Yes,DPM,Multiparous,40,3.25,3,3,3,No Disease,AB,27.045
+No,DPM,Multiparous,41,3,2.5,2.5,2.25,No Disease,AB,31.933
+Yes,DPM,Multiparous,41,3,2.75,2.75,2.75,No Disease,AA,31.043
+Yes,DPM,Multiparous,41,2.75,2.75,2.75,2.75,No Disease,AB,33.062
+Yes,DPM,Multiparous,40,2.75,2.75,2.75,2.75,No Disease,AA,19.727
+Yes,DPM,Multiparous,40,2.75,2.75,3,3,No Disease,AA,17.326
+Yes,DPM,Multiparous,40,2.5,2.75,2.75,2.5,No Disease,BB,15.39
+Yes,DPM,Multiparous,39,2.75,2.75,2.75,2.75,No Disease,AB,22.223
+Yes,DPM,Multiparous,41,2.75,2.75,2.75,2.75,No Disease,AB,23.39
+No,DPM,Multiparous,40,2.5,2.75,2.75,2.75,No Disease,AB,40.764
+Yes,DPM,Multiparous,40,3,3,3,2.75,No Disease,AB,29.47
+Yes,DPM,Multiparous,39,2.25,2.25,2.75,2.75,No Disease,AA,27.848
+No,DPM,Multiparous,40,2.75,2.75,2.5,2.5,No Disease,AA,30.884
+Yes,DPM,Multiparous,39,2.75,2.75,3,3,No Disease,AA,27.176
+Yes,DPM,Multiparous,37,3.25,3,3,3,No Disease,AB,28.232
+Yes,DPM,Multiparous,38,3,3.25,3,3,No Disease,BB,34.367
+Yes,DPM,Multiparous,39,3,3,3.25,3.25,No Disease,AA,24.306
+Yes,DPM,Multiparous,39,3.25,3,3.5,3.5,No Disease,AA,26.843
+Yes,DPM,Multiparous,38,3,2.75,3,3,No Disease,AB,25.172
+Yes,DPM,Multiparous,38,3,2.5,2.75,2.75,No Disease,AB,23.998
+Yes,DPM,Multiparous,38,3,2.75,2.75,2.75,No Disease,AA,32.971
+Yes,DPM,Multiparous,36,3,2.5,2.5,2.75,No Disease,BB,24.361
+Yes,DPM,Multiparous,36,3.5,3,3,3,No Disease,AB,33.733
+Yes,DPM,Multiparous,37,3,3,3,3,No Disease,BB,20.933
+Yes,DPM,Multiparous,36,3,3,3,3.25,No Disease,AB,25.321
+No,DPM,Multiparous,70,2.5,2.5,2.5,2.5,No Disease,AB,32.642
+Yes,DPM,Multiparous,70,3,2.75,2.75,2.75,No Disease,BB,31.081
+Yes,DPM,Multiparous,65,3,2.75,2.75,2.75,No Disease,AA,29.589
+No,DPM,Multiparous,84,3.25,2.75,3,3,No Disease,AA,48.268
+Yes,DPM,Multiparous,84,2.75,2.75,3,2.75,No Disease,AA,30.131
+No,DPM,Multiparous,71,2.5,2.75,2.5,2.75,No Disease,AB,35.799
+Yes,DPM,Multiparous,69,3,2.5,2.5,2.5,No Disease,AB,32.193
+Yes,DPM,Multiparous,69,3,3,3,2.75,No Disease,AB,27.254
+Yes,DPM,Multiparous,67,3.25,2.75,2.75,3,No Disease,AA,33.687
+No,DPM,Multiparous,65,3,2.5,2.75,2.75,No Disease,AB,37.302
+Yes,DPM,Multiparous,64,3,2.75,3.25,3.5,No Disease,AB,33.892
+Yes,DPM,Multiparous,59,2.75,2.75,2.5,2.5,No Disease,AB,30.411
+Yes,DPM,Multiparous,58,3,3,3,3,No Disease,AB,37.18
+Yes,DPM,Multiparous,58,3,2.5,2.5,2.5,No Disease,AB,19.947
+Yes,DPM,Multiparous,56,3,2.75,2.75,2.5,No Disease,AA,20.28
+Yes,DPM,Multiparous,55,3.25,3.5,3.5,3.25,No Disease,AB,25.883
+Yes,DPM,Multiparous,55,3,2.5,2.5,2.75,No Disease,AB,28.55
+Yes,DPM,Multiparous,54,3,2.5,2.75,2.75,No Disease,AB,25.47
+Yes,DPM,Multiparous,55,2.5,2.75,2.75,2.75,No Disease,AA,30.899
+Yes,DPM,Multiparous,54,3,2.75,2.75,2.75,No Disease,AB,27.423
+Yes,DPM,Multiparous,52,2.75,2.75,2.75,3,No Disease,AA,27.201
+Yes,DPM,Multiparous,52,2.5,2.75,2.75,2.75,No Disease,AA,24.339
+No,DPM,Multiparous,55,2.5,2.75,2.5,2.5,No Disease,AB,33.114
+Yes,DPM,Multiparous,52,3,2.75,3,3,No Disease,AA,22.137
+No,DPM,Multiparous,54,2.75,2.75,2.75,2.75,No Disease,AB,37.201
+Yes,DPM,Multiparous,50,3,2.75,2.75,2.5,No Disease,BB,27.318
+Yes,DPM,Multiparous,49,2.5,2.5,2.75,2.75,No Disease,AA,29.607
+Yes,DPM,Multiparous,51,2.75,2.75,2.75,2.75,No Disease,AB,30.785
+Yes,DPM,Multiparous,50,3,2.75,2.75,2.75,No Disease,AB,34.352
+Yes,DPM,Multiparous,49,3.25,3,3,3,No Disease,AB,26.859
+Yes,DPM,Multiparous,49,3.25,3,3,2.75,No Disease,AB,30.895
+Yes,DPM,Multiparous,47,3.25,2.75,3.25,3,No Disease,AB,32.549
+No,FBU,Primiparous,36,2.5,2.5,3,3.25,No Disease,AA,10.094
+No,FBU,Primiparous,36,2.5,2.5,2.5,2.5,No Disease,AA,14.726
+No,FBU,Primiparous,35,2.75,2.75,2.75,2.75,No Disease,BB,11.994
+No,FBU,Primiparous,35,2.5,2.75,2.75,2.5,No Disease,AA,14.568
+No,FBU,Primiparous,33,2.25,2.5,2.75,2.75,No Disease,AA,10.498
+No,FBU,Primiparous,33,2.75,2.75,2.75,2.75,No Disease,AA,11.82
+Yes,FBU,Primiparous,33,2.25,2.25,2.5,2.5,No Disease,AA,12.576
+No,FBU,Primiparous,33,2.5,2.5,2.5,2.5,No Disease,AB,13.338
+No,FBU,Primiparous,33,2.25,2.25,2.75,2.75,No Disease,BB,10.078
+Yes,FBU,Primiparous,33,2.25,2.75,2.75,2.75,No Disease,AB,12.96
+No,FBU,Primiparous,33,2.5,2.75,2.75,2.5,No Disease,AB,10.512
+No,FBU,Primiparous,32,2.25,2.5,2.5,2.5,No Disease,AA,9.873
+No,FBU,Primiparous,33,2.5,2.75,3,2.75,No Disease,AB,10.33
+Yes,FBU,Primiparous,32,2.75,2.75,2.75,2.75,No Disease,AA,9.678
+Yes,FBU,Primiparous,30,2.5,2.5,2.75,2.75,No Disease,AA,11.664
+No,FBU,Primiparous,33,2.5,2.75,2.75,2.5,No Disease,AB,12.194
+Yes,FBU,Multiparous,57,2,2.5,2.5,2.5,No Disease,AA,8.788
+Yes,FBU,Multiparous,51,2.25,2.25,2.25,2.5,No Disease,AB,18.736
+No,FBU,Multiparous,48,2.25,2.25,2.25,2.25,No Disease,AA,14.248
+No,FBU,Multiparous,48,2,2.25,2.25,2.5,No Disease,AB,18.758
+No,FBU,Multiparous,49,2.5,2.75,2.75,2.75,No Disease,AB,18.476
+No,FBU,Multiparous,48,2.25,2,2,2.25,No Disease,AB,13.794
+Yes,FBU,Multiparous,48,2.5,2.5,2.5,2.5,No Disease,AB,8.508
+Yes,FBU,Multiparous,48,2.75,2.75,3,3,No Disease,AB,14.548
+No,FBU,Multiparous,47,2.25,2.25,2.25,2.25,No Disease,AB,10.17
+Yes,FBU,Multiparous,47,2,2.5,2.5,2.75,No Disease,BB,16.002
+No,FBU,Multiparous,47,2.5,2.5,2.5,2.5,No Disease,AA,12.996
+Yes,FBU,Multiparous,45,2.25,2.5,2.5,2.5,No Disease,AB,12.874
+Yes,FBU,Multiparous,43,2.25,2.5,2.75,2.75,No Disease,AA,11.82
+Yes,FBU,Multiparous,70,2.5,2.25,2.25,2.25,No Disease,BB,22.666
+Yes,FBU,Multiparous,62,2.5,2.25,2.5,2.5,No Disease,AB,22.88
+Yes,FBU,Multiparous,60,2.25,2.25,2.5,2.5,No Disease,BB,13.98
+No,FBU,Multiparous,60,2.5,2.5,2.75,2.75,No Disease,AB,18.402
+No,FBU,Multiparous,60,2.5,2.25,2.25,2.5,No Disease,AB,16.37
+Yes,FBU,Multiparous,59,2,2.25,2.5,2.5,No Disease,AB,12.288
+Yes,FBU,Multiparous,59,2.5,2.5,2.75,2.75,No Disease,BB,13.932
+Yes,FBU,Multiparous,59,2.25,2.25,2.25,2.5,No Disease,AB,20.472
+No,FBU,Multiparous,59,2.25,2.25,2.25,2.25,No Disease,AB,15.836
+No,FBU,Multiparous,58,2.25,2.25,2.25,2.5,No Disease,BB,20.032
+Yes,FBU,Multiparous,58,2.5,2.5,2.75,2.75,No Disease,AB,15.222
+Yes,FBU,Multiparous,58,2.5,2.25,2.25,2.25,No Disease,BB,17.214
+Yes,FBU,Multiparous,57,2.5,2.5,2.5,2.75,No Disease,AA,9.54
+No,FBU,Multiparous,59,2.75,2.5,2.25,2.25,No Disease,AA,19.992
+Yes,GEA,Primiparous,45,2.5,2.5,2.5,2.75,No Disease,AB,13.38
+Yes,GEA,Primiparous,43,3.25,3,3,3,No Disease,AB,17.47
+No,GEA,Primiparous,43,2.75,2.75,2.75,2.75,Disease,AA,16.27
+Yes,GEA,Primiparous,43,3,2.75,3,3,No Disease,BB,16.64
+Yes,GEA,Primiparous,43,2.5,2.75,2.75,2.75,No Disease,AB,15.88
+No,GEA,Primiparous,42,3,3,2.75,2.75,Disease,AB,16.4
+Yes,GEA,Primiparous,42,3,2.5,2.75,2.75,No Disease,AB,18.01
+No,GEA,Primiparous,38,3,3,3,3,No Disease,AB,15.49
+No,GEA,Primiparous,37,2.75,2.75,2.75,2.75,No Disease,AA,13.685
+No,GEA,Primiparous,37,3,2.75,2.75,3,No Disease,AB,15.7
+No,GEA,Primiparous,37,2.75,2.5,2.75,2.75,No Disease,AB,12.72
+No,GEA,Primiparous,37,2.5,2.75,2.75,2.75,No Disease,AB,15.43
+Yes,GEA,Primiparous,37,2.5,2.5,2.5,2.5,No Disease,AB,15.31
+No,GEA,Primiparous,38,2.75,2.25,2.25,2.75,No Disease,AA,14.05
+Yes,GEA,Primiparous,38,2.75,2.5,2.5,2.5,No Disease,AA,13.33
+No,GEA,Primiparous,37,2.5,2.75,2.75,2.75,No Disease,AA,13.45
+No,GEA,Primiparous,37,3,2.75,2.75,2.75,No Disease,AB,16.74
+Yes,GEA,Primiparous,37,2.75,2.5,2.75,3,No Disease,AB,14.46
+No,GEA,Primiparous,37,3.25,2.5,2.75,2.75,No Disease,BB,14.92
+No,GEA,Primiparous,36,3,3,3,3,Disease,AB,16.27
+No,GEA,Primiparous,38,3,2.75,2.75,2.75,No Disease,BB,15.14
+Yes,GEA,Primiparous,37,2.5,2.75,2.75,3,No Disease,AA,14.57
+No,GEA,Primiparous,37,3,2.75,3,2.75,Disease,BB,13.02
+Yes,GEA,Primiparous,36,2.75,3,2.75,2.5,No Disease,AA,12.285
+No,GEA,Primiparous,36,2.5,2.5,2.5,2.5,Disease,AB,14.46
+Yes,GEA,Primiparous,36,3,3,3,3,Disease,AB,12.39
+No,GEA,Primiparous,36,2.5,3.5,2.5,2.5,No Disease,BB,10.74
+No,GEA,Primiparous,36,2.5,2.5,2.5,2.75,No Disease,AA,13.82
+No,GEA,Primiparous,36,2.5,3,2.75,2.5,No Disease,AB,13.215
+No,GEA,Primiparous,36,2.5,3,2.75,2.75,No Disease,AA,14.71
+No,GEA,Primiparous,37,3,2.75,2.75,2.75,No Disease,AA,12.06
+No,GEA,Primiparous,36,3.25,2.75,3,2.75,No Disease,AB,13.22
+No,GEA,Primiparous,36,2.75,2.75,2.5,2.75,No Disease,AB,13.02
+No,GEA,Primiparous,36,2.5,2.5,2.5,2.75,No Disease,AA,11.5
+No,GEA,Primiparous,35,2.75,2.5,2.5,2.5,No Disease,BB,11.65
+Yes,GEA,Primiparous,35,2.75,3,3,2.75,No Disease,AB,11.63
+Yes,GEA,Primiparous,35,2.75,2.75,2.5,2.5,No Disease,AB,14.35
+No,GEA,Primiparous,35,2.75,2.5,2.5,2.5,Disease,AA,7.14
+Yes,GEA,Primiparous,35,2.5,2.5,2.75,2.75,No Disease,AB,12.92
+No,GEA,Primiparous,36,3,2.75,2.75,3,No Disease,AB,9.92
+No,GEA,Primiparous,36,2.75,2.5,2.75,3,No Disease,AB,12.62
+No,GEA,Primiparous,36,2.75,2.5,2.5,2.75,No Disease,AA,14.21
+No,GEA,Primiparous,35,2.5,2.5,2.5,2.75,No Disease,AB,11.37
+Yes,GEA,Primiparous,35,2.75,2.5,2.75,2.75,No Disease,AA,13.91
+Yes,GEA,Primiparous,35,2.75,2.5,2.75,2.75,No Disease,AB,13.03
+No,GEA,Primiparous,36,2.75,2.75,2.75,2.75,No Disease,AB,17.17
+No,GEA,Primiparous,34,2.75,3,3,2.75,No Disease,AB,12.62
+Yes,GEA,Primiparous,36,2.75,2.75,2.5,2.5,No Disease,AA,14.755
+No,GEA,Primiparous,35,2.75,2.5,2.5,2.75,No Disease,AB,10.02
+No,GEA,Primiparous,35,2.5,2.75,2.5,2.75,No Disease,AB,9.96
+Yes,GEA,Primiparous,34,2.5,2.75,2.5,2.75,No Disease,BB,15.13
+No,GEA,Primiparous,34,2.75,2.5,2.75,2.75,No Disease,AA,10.16
+No,GEA,Primiparous,34,3,2.75,2.75,2.5,No Disease,AB,14.65
+No,GEA,Primiparous,35,3,3,3,3,No Disease,AA,12.3
+Yes,GEA,Multiparous,59,2.75,2.5,2.5,2.75,No Disease,AB,19.55
+Yes,GEA,Multiparous,56,3,3.25,3,3,No Disease,AA,21.98
+Yes,GEA,Multiparous,55,2.75,2.75,2.75,2.5,No Disease,AB,18.56
+Yes,GEA,Multiparous,54,2.75,2.5,2.75,2.75,No Disease,AA,21.39
+Yes,GEA,Multiparous,54,3,3,2.75,2.5,No Disease,AA,11.7
+Yes,GEA,Multiparous,48,2.5,2.75,2.75,2.75,No Disease,AB,17.44
+Yes,GEA,Multiparous,61,2.75,2.75,2.75,3,No Disease,AB,21.51
+No,GEA,Multiparous,50,2.75,2.75,2.75,2.5,No Disease,AA,21.54
+No,GEA,Multiparous,50,2.75,2.5,2.75,2.75,No Disease,AB,21.18
+Yes,GEA,Multiparous,49,3.25,2.75,2.75,2.75,No Disease,AB,22.78
+No,GEA,Multiparous,49,3,2.75,2.75,2.75,No Disease,BB,20.99
+No,GEA,Multiparous,49,2.75,2.5,2.75,2.75,No Disease,AB,18.87
+Yes,GEA,Multiparous,46,2.5,2.75,2.5,2.5,No Disease,BB,14.435
+No,GEA,Multiparous,49,3.5,2.75,2.75,2.75,Disease,AB,19.8
+No,GEA,Multiparous,49,2.75,2.5,2.5,2.5,No Disease,AB,17.67
+Yes,GEA,Multiparous,46,2.75,2.25,2.25,2.75,No Disease,BB,16.74
+Yes,GEA,Multiparous,47,2.75,2.5,2.75,2.75,No Disease,AB,15.46
+Yes,GEA,Multiparous,45,2.5,2.5,2.75,2.75,No Disease,AB,17.88
+Yes,GEA,Multiparous,47,3.25,3,3,3,No Disease,AB,19.2
+No,GEA,Multiparous,46,3,2.75,3,2.75,No Disease,BB,16.71
+Yes,GEA,Multiparous,46,3.25,2.75,2.75,2.5,No Disease,AB,19.32
+No,GEA,Multiparous,46,2.75,2.75,2.75,2.75,No Disease,AB,23.025
+Yes,GEA,Multiparous,43,2.75,2.75,2.75,2.5,No Disease,AA,18.63
+Yes,GEA,Multiparous,70,2.75,2.5,2.5,2.5,No Disease,AB,18.91
+No,GEA,Multiparous,63,3,2.75,2.75,2.5,Disease,AB,23.345
+No,GEA,Multiparous,59,2.5,2.25,2.75,2.75,No Disease,AA,20.725
+Yes,GEA,Multiparous,60,3,3,3,2.75,No Disease,AB,21
+No,GEA,Multiparous,59,2.5,2.5,2.5,2.5,Disease,AB,14.805
+No,GEA,Multiparous,58,3.25,3,3,3,Disease,AA,18.7
+Yes,GEA,Multiparous,57,2.75,2.5,2.5,2.5,No Disease,AA,18.98
+Yes,GEA,Multiparous,57,3.25,3,2.75,3,No Disease,BB,13.89
+Yes,GEA,Multiparous,56,3,2.75,2.75,2.75,No Disease,BB,16.89
+No,GEA,Multiparous,58,3.25,2.75,2.75,2.75,No Disease,BB,26.14
+No,GEA,Multiparous,58,3.25,2.75,2.75,2.5,No Disease,AA,21.03
+Yes,GEA,Multiparous,55,2.75,2.5,2.75,2.75,No Disease,AB,22.34
+No,HDB,Primiparous,37,2.75,2.75,2.75,2.75,No Disease,AB,17.853
+No,HDB,Primiparous,37,2.5,2.75,2.75,2.75,No Disease,AA,12.378
+Yes,HDB,Primiparous,34,2.5,2.5,2.75,2.75,No Disease,BB,19.028
+No,HDB,Primiparous,35,2.75,2.5,2.5,2.5,No Disease,AA,19.825
+Yes,HDB,Primiparous,35,2.75,2.5,2.5,2.5,No Disease,AA,20.02
+No,HDB,Primiparous,33,2.75,2.5,2.5,2.5,No Disease,AA,18.664
+No,HDB,Primiparous,33,2.5,2.5,2.5,2.5,No Disease,AA,18.171
+No,HDB,Primiparous,33,2.5,2.5,2.5,2.5,No Disease,BB,17.751
+No,HDB,Primiparous,26,3,2.5,2.75,2.5,No Disease,AA,19.241
+Yes,HDB,Primiparous,25,2.5,2.75,2.75,2.75,No Disease,AB,17.157
+Yes,HDB,Primiparous,26,3.25,2.75,2.75,2.5,No Disease,AA,18.524
+No,HDB,Primiparous,24,2.5,2.5,2.5,2.5,No Disease,BB,15.065
+Yes,HDB,Primiparous,25,2.75,2.5,2.5,2.5,No Disease,AB,19.536
+Yes,HDB,Primiparous,25,2.75,2.75,2.75,2.75,No Disease,AB,17.67
+Yes,HDB,Primiparous,24,2.5,2.75,3,3,No Disease,AA,11.687
+No,HDB,Primiparous,24,2.75,2.5,2.5,2.5,No Disease,AB,11.404
+Yes,HDB,Primiparous,23,2.5,2.25,2.5,2.5,No Disease,AB,14.06
+Yes,HDB,Primiparous,23,2.5,2.75,2.75,2.75,No Disease,AB,12.74
+No,HDB,Primiparous,25,3,2.5,2.75,2.75,No Disease,AA,18.058
+No,HDB,Primiparous,24,2.75,2.75,2.75,2.75,No Disease,AB,14.939
+No,HDB,Primiparous,24,2.25,2.25,2.25,2.25,No Disease,AA,15.431
+No,HDB,Primiparous,23,2.5,2.5,2.5,2.5,No Disease,AB,10.46
+No,HDB,Primiparous,24,2.5,2.25,2.25,2.25,No Disease,AB,19.045
+No,HDB,Primiparous,25,2.75,2.5,2.75,2.75,No Disease,AB,22.224
+No,HDB,Primiparous,23,2.5,2.75,2.25,2.25,No Disease,BB,16.009
+No,HDB,Primiparous,23,2.5,2.75,2.75,2.5,No Disease,AB,12.88
+No,HDB,Primiparous,24,2.5,2.5,2.5,2.5,No Disease,AA,12.99
+Yes,HDB,Primiparous,26,3,3,3,2.75,No Disease,AB,17.084
+No,HDB,Primiparous,25,3,2.5,2.75,2.75,No Disease,AA,19.789
+No,HDB,Primiparous,23,2.5,2.5,2.5,2.5,No Disease,AB,12.756
+Yes,HDB,Primiparous,24,3,2.75,2.75,2.75,No Disease,BB,16.823
+No,HDB,Primiparous,23,2.25,2.5,2.5,2.5,No Disease,AB,15.349
+No,HDB,Primiparous,24,2.75,2.5,2.75,2.5,No Disease,AB,13.407
+Yes,HDB,Primiparous,24,2.5,2.5,2.5,2.75,No Disease,AA,13.978
+Yes,HDB,Primiparous,25,3.25,2.75,2.75,2.5,Disease,AA,17.748
+No,HDB,Primiparous,25,3.25,2.75,2.75,2.5,No Disease,BB,18.612
+Yes,HDB,Primiparous,23,2.5,2.5,2.5,2.5,No Disease,AA,14.124
+No,HDB,Primiparous,24,3,3.25,3.25,3.25,No Disease,AB,20.259
+No,HDB,Primiparous,25,3.25,2.5,2.5,2.5,Disease,AB,18.138
+No,HDB,Primiparous,25,3.25,3,3,2.5,No Disease,AA,18.324
+No,HDB,Primiparous,25,3.25,2.5,2.75,2.5,No Disease,AB,19.198
+Yes,HDB,Primiparous,22,2.25,2.75,2.75,2.75,No Disease,AB,9.462
+No,HDB,Primiparous,25,3.25,2.5,2.75,2.75,No Disease,AA,17.042
+No,HDB,Primiparous,25,2.75,2.5,2.5,2.5,No Disease,AA,20.932
+Yes,HDB,Primiparous,23,2.25,2.75,2.75,2.75,No Disease,AA,15.165
+No,HDB,Primiparous,24,2.75,2.5,2.5,2.5,No Disease,AB,17.43
+No,HDB,Multiparous,57,2.25,2.25,2.25,2.5,Disease,AA,19.338
+No,HDB,Multiparous,50,3,2.75,2.75,2.75,No Disease,AA,28.067
+No,HDB,Multiparous,48,2.5,2.5,2.5,2.5,No Disease,BB,21.183
+Yes,HDB,Multiparous,49,3.25,2.5,2.5,2.75,No Disease,AB,25.356
+Yes,HDB,Multiparous,49,2.5,2.75,3,3,No Disease,AA,23.854
+Yes,HDB,Multiparous,48,3,2.75,2.75,2.75,No Disease,AA,21.022
+Yes,HDB,Multiparous,49,3,3,3,3.25,No Disease,BB,17.606
+Yes,HDB,Multiparous,39,3,2.75,2.75,2.75,No Disease,AA,20.778
+No,HDB,Multiparous,36,2.5,2.25,2.5,2.5,No Disease,AA,17.372
+No,HDB,Multiparous,39,3,2.75,2.75,2.75,No Disease,AA,22.156
+Yes,HDB,Multiparous,36,2.25,2.25,2.5,2.75,No Disease,AB,18.416
+Yes,HDB,Multiparous,37,2.5,2.75,2.75,2.75,No Disease,AB,18.517
+Yes,HDB,Multiparous,38,2.75,2.75,2.75,2.75,No Disease,AA,16.761
+Yes,HDB,Multiparous,38,3,2.75,2.75,2.5,No Disease,AB,23.73
+Yes,HDB,Multiparous,35,2.5,2.5,2.5,2.5,No Disease,AA,16.586
+Yes,HDB,Multiparous,36,2.75,2.75,2.75,2.75,No Disease,BB,22.491
+Yes,HDB,Multiparous,36,3,3,2.5,2.5,No Disease,BB,16.044
+Yes,HDB,Multiparous,74,2.75,2.75,3,3,No Disease,AB,26.379
+Yes,HDB,Multiparous,73,3.25,3.25,3.25,3,No Disease,AA,27.3
+No,HDB,Multiparous,74,3.25,2.75,3,2.75,Disease,AB,28.126
+No,HDB,Multiparous,72,2.75,2.5,2.75,2.75,No Disease,AA,22.214
+No,HDB,Multiparous,71,2,2.25,2.5,2.5,No Disease,AB,25.69
+Yes,HDB,Multiparous,71,3,2.5,2.5,2.75,No Disease,AB,24.686
+No,HDB,Multiparous,71,3,2.75,2.75,2.75,No Disease,AA,28.479
+Yes,HDB,Multiparous,71,3.5,3.25,3.25,3.25,No Disease,BB,24.13
+Yes,HDB,Multiparous,69,3,2.5,3,3,Disease,BB,23.165
+Yes,HDB,Multiparous,69,2.75,2.75,2.75,3,No Disease,BB,24.646
+No,HDB,Multiparous,68,2,2.25,2.25,2.5,No Disease,AA,16.28
+No,HDB,Multiparous,62,2.5,2.25,2.5,2.5,No Disease,BB,21.182
+Yes,HDB,Multiparous,60,2.5,2.5,2.5,2.5,No Disease,AA,20.563
+Yes,HDB,Multiparous,61,3.25,2.75,3,3,No Disease,AA,22.617
+Yes,HDB,Multiparous,61,2.75,2.75,2.75,2.75,No Disease,AB,22.013
+Yes,HDB,Multiparous,61,2.5,3,3.25,3.25,No Disease,AA,24.561
+Yes,HDB,Multiparous,61,3,2.5,2.75,2.5,No Disease,AB,23.888
+Yes,HDB,Multiparous,62,3.5,3.25,3.25,3.5,No Disease,BB,27.72
+Yes,HDB,Multiparous,59,2.25,2.25,2.25,2.5,No Disease,AA,20.186
+Yes,HDB,Multiparous,59,2.5,2.5,2.5,2.75,No Disease,AA,17.766
+Yes,HDB,Multiparous,59,2.25,2.25,2.5,3,No Disease,AB,20.804
+No,HDB,Multiparous,61,3.25,2.5,2.5,2.75,No Disease,AB,27.604
+No,HDB,Multiparous,60,3.25,2.75,2.75,2.75,No Disease,AA,25.212
+Yes,HDB,Multiparous,56,2.5,2.5,2.5,3,No Disease,AB,17.082
+Yes,HDB,Multiparous,56,2.25,2.5,2.5,2.5,Disease,BB,20.172
+No,HDB,Multiparous,55,2,2,2.25,2.5,Disease,AB,13.786
+Yes,HDB,Multiparous,57,3,2.5,2.5,2.5,No Disease,AB,25.443
+Yes,HDB,Multiparous,48,2.25,2.25,2.25,2.5,No Disease,BB,16.676
+No,HDB,Multiparous,49,3,3,3,3,No Disease,BB,27.654
+No,HDB,Multiparous,51,3.25,3.25,3.25,3.5,No Disease,BB,28.28
+No,HDB,Multiparous,49,3,2.75,2.75,3,No Disease,AB,28.05
+Yes,IDB,Primiparous,45,3,2.75,2.75,2.75,No Disease,AA,20.73
+No,IDB,Primiparous,36,3.5,2.75,2.75,2.75,Disease,AB,22.635
+Yes,IDB,Primiparous,35,3.25,3,3,2.75,No Disease,BB,24.84
+No,IDB,Primiparous,35,2.75,2.75,2.75,2.75,Disease,AB,28.54
+Yes,IDB,Primiparous,34,2.5,3,3,2.5,No Disease,AB,24.405
+Yes,IDB,Primiparous,35,3,3,2.75,2.75,No Disease,AA,17.36
+Yes,IDB,Primiparous,35,3.25,3,3,3,No Disease,AB,23.44
+Yes,IDB,Primiparous,34,3.25,3,3,2.75,No Disease,AB,14.915
+Yes,IDB,Primiparous,33,2.25,3,3,3,No Disease,AB,18.275
+Yes,IDB,Primiparous,33,3,3,3,2.75,No Disease,AB,14.87
+Yes,IDB,Primiparous,33,3.25,3,3,3,No Disease,AA,21.3
+Yes,IDB,Primiparous,34,3.25,3,3,3,Disease,AA,22.295
+Yes,IDB,Primiparous,33,3.25,3,3,2.75,Disease,AB,13.825
+No,IDB,Primiparous,33,3,2.5,2.5,2.5,Disease,AB,26.04
+Yes,IDB,Primiparous,32,2.75,3.25,3.25,3,Disease,BB,20.49
+Yes,IDB,Primiparous,33,3.25,2.5,2.5,2.5,Disease,AB,25.525
+Yes,IDB,Primiparous,32,2.75,3,3,3,Disease,AB,16.74
+No,IDB,Primiparous,32,3,2.5,2.5,2.5,No Disease,AA,17.1
+Yes,IDB,Primiparous,32,3,3.25,3.25,2.75,No Disease,AB,20.195
+Yes,IDB,Primiparous,32,2.75,2.75,2.75,2.5,No Disease,AB,21.425
+Yes,IDB,Primiparous,32,3.25,2.75,2.75,2.5,Disease,AB,16.455
+Yes,IDB,Primiparous,32,2.75,2.5,2.5,2.5,Disease,AB,17.145
+Yes,IDB,Primiparous,32,2.75,2.75,2.75,2.5,Disease,BB,17.195
+Yes,IDB,Primiparous,33,3.5,2.75,2.75,2.5,No Disease,BB,26.745
+Yes,IDB,Primiparous,32,3,2.5,2.5,2.5,Disease,AA,22.63
+Yes,IDB,Primiparous,31,2.75,3.25,3.25,3.5,No Disease,AB,8.58
+Yes,IDB,Primiparous,31,3.25,2.75,2.75,2.75,No Disease,AA,23.275
+No,IDB,Primiparous,32,3,2.5,2.75,2.75,Disease,BB,22.385
+Yes,IDB,Primiparous,31,3.25,2.75,3,2.75,No Disease,AB,18.81
+Yes,IDB,Primiparous,31,2.75,2.75,2.75,2.75,No Disease,AA,23.06
+Yes,IDB,Primiparous,30,3,2.75,2.75,2.5,No Disease,BB,17.025
+Yes,IDB,Primiparous,30,3.25,2.75,3,2.75,No Disease,AB,20.86
+Yes,IDB,Primiparous,30,3.5,3.25,2.75,2.75,No Disease,BB,16.205
+Yes,IDB,Primiparous,30,3.25,3,3,2.75,Disease,AA,16.605
+Yes,IDB,Primiparous,30,3,2.75,2.75,2.75,Disease,BB,18.6
+Yes,IDB,Primiparous,29,2.5,2.75,2.75,2.75,No Disease,AB,23.43
+Yes,IDB,Primiparous,29,3.25,3,3,3,No Disease,AA,20.76
+Yes,IDB,Primiparous,29,2.75,2.75,2.75,3,No Disease,AB,18.72
+Yes,IDB,Primiparous,30,3.25,2.75,2.75,2.75,No Disease,AB,20.77
+Yes,IDB,Primiparous,42,3,2.5,2.5,2.5,Disease,AA,16.19
+Yes,IDB,Primiparous,36,3.5,2.5,2.5,2.75,No Disease,BB,22.915
+Yes,IDB,Primiparous,36,2.75,2.75,2.5,2.5,Disease,BB,19.23
+Yes,IDB,Primiparous,36,3,2.5,3,3,No Disease,BB,16.385
+Yes,IDB,Primiparous,36,2.5,3.25,3.25,3,Disease,AA,21.39
+Yes,IDB,Primiparous,36,2.5,2.75,2.75,2.75,Disease,AB,22.265
+Yes,IDB,Primiparous,36,2.75,2.75,2.75,2.75,Disease,AB,19.715
+Yes,IDB,Primiparous,35,2.5,3.25,3.25,2.75,No Disease,AB,20.795
+Yes,IDB,Primiparous,35,2.5,2.75,2.75,2.5,No Disease,AA,21.94
+Yes,IDB,Primiparous,35,2.75,2.5,2.75,2.75,Disease,AB,19.885
+Yes,IDB,Primiparous,34,2.5,3.25,3.25,3,Disease,AA,16.26
+Yes,IDB,Primiparous,34,3,2.75,2.75,2.75,Disease,AB,21.75
+Yes,IDB,Primiparous,34,3.25,3,3,2.75,Disease,BB,17
+Yes,IDB,Primiparous,34,2.5,2.75,2.75,2.75,Disease,AB,21.04
+Yes,IDB,Primiparous,34,3.25,3,3,3,No Disease,BB,22.035
+Yes,IDB,Primiparous,34,2.75,2.5,2.5,2.5,No Disease,AB,21.615
+No,IDB,Primiparous,34,3.5,3,3.25,3,Disease,BB,25.91
+Yes,IDB,Primiparous,34,3,3,3,3,Disease,AB,20.825
+Yes,IDB,Primiparous,33,2.75,2.5,2.5,2.5,No Disease,AB,21.485
+Yes,IDB,Primiparous,34,3.25,3,2.75,2.75,Disease,AB,20.255
+Yes,IDB,Primiparous,34,2.5,2.75,2.75,2.75,No Disease,AB,19.53
+Yes,IDB,Primiparous,33,2.5,3,3,3,Disease,AB,13.3
+Yes,IDB,Primiparous,33,2.5,2.5,2.75,2.75,Disease,AB,19.165
+Yes,IDB,Primiparous,34,3,2.75,2.75,2.75,No Disease,AA,19.625
+Yes,IDB,Primiparous,34,2.75,2.75,2.75,2.75,No Disease,BB,21.585
+Yes,IDB,Primiparous,33,2.75,2.5,2.5,2.75,No Disease,AA,22.6
+Yes,IDB,Primiparous,33,3.25,2.75,2.75,2.75,Disease,AB,22.455
+Yes,IDB,Primiparous,32,3.5,3.5,3.25,3.25,Disease,AA,20.045
+Yes,IDB,Primiparous,32,2.5,2.75,2.75,3,No Disease,AB,7.72
+Yes,IDB,Primiparous,31,2.5,2.5,2.5,2.75,No Disease,AB,21.115
+Yes,IDB,Primiparous,32,3,3,3.25,3.25,Disease,AA,18.6
+Yes,IDB,Primiparous,32,2.75,2.5,2.5,2.5,No Disease,AA,24.695
+Yes,IDB,Primiparous,32,3,3,3,3,No Disease,AA,19.21
+Yes,IDB,Primiparous,32,3.25,3,2.75,2.75,No Disease,AB,22.32
+Yes,IDB,Primiparous,32,3.5,3.25,3.25,2.75,No Disease,AB,19.89
+Yes,IDB,Primiparous,32,3,2.5,2.5,2.5,No Disease,AB,19.93
+Yes,IDB,Primiparous,30,3,2.75,2.75,2.75,Disease,AA,22.09
+Yes,IDB,Multiparous,60,2.25,2.5,2.5,2.5,No Disease,AA,22.175
+Yes,IDB,Multiparous,58,3.25,3,3,2.75,No Disease,AB,27.97
+Yes,IDB,Multiparous,57,3.5,2.75,3.25,3,Disease,BB,23.29
+Yes,IDB,Multiparous,56,2.75,3,3,3,Disease,BB,25.76
+Yes,IDB,Multiparous,48,2.5,2.5,2.5,2.75,Disease,AA,17.93
+Yes,IDB,Multiparous,49,2.5,2.75,2.75,2.75,No Disease,AA,24.435
+No,IDB,Multiparous,48,2.25,2.5,2.5,2.5,No Disease,AB,26.97
+Yes,IDB,Multiparous,48,2.75,2.5,2.75,2.75,No Disease,AA,24.69
+Yes,IDB,Multiparous,48,2.5,2.5,2.5,2.5,No Disease,AA,27.03
+Yes,IDB,Multiparous,48,3.25,2.75,3,3,No Disease,AA,21.275
+Yes,IDB,Multiparous,49,2.75,2.75,2.5,2.5,No Disease,AB,24.72
+Yes,IDB,Multiparous,47,3,3,3.5,3.5,No Disease,AA,23.315
+Yes,IDB,Multiparous,47,3,2.75,2.75,2.5,No Disease,AB,23.115
+Yes,IDB,Multiparous,45,2.5,2.5,2.75,2.75,Disease,AB,20.555
+No,IDB,Multiparous,45,2.5,2.5,2.5,2.5,No Disease,AA,27.235
+Yes,IDB,Multiparous,44,2.5,2.5,2.5,2.5,No Disease,AA,19.515
+Yes,IDB,Multiparous,44,2.75,2.75,3,3,No Disease,AA,23.775
+Yes,IDB,Multiparous,43,2.5,2.5,2.5,2.75,Disease,AA,21.405
+Yes,IDB,Multiparous,44,2.75,3,3,3.25,No Disease,BB,24.795
+Yes,IDB,Multiparous,43,2.75,2.75,2.5,2.5,No Disease,BB,22.225
+Yes,IDB,Multiparous,42,2.5,2.5,2.5,2.75,Disease,AA,23.175
+Yes,IDB,Multiparous,43,2.5,3.25,3.25,3.25,No Disease,BB,19.3
+Yes,IDB,Multiparous,44,3.25,3,2.75,2.75,Disease,AB,24.74
+Yes,IDB,Multiparous,42,2.5,2.5,2.5,3.25,Disease,AA,22.01
+No,IDB,Multiparous,42,2.5,2.5,2.5,2.5,No Disease,AA,20.45
+Yes,IDB,Multiparous,56,2.75,2.5,2.5,2.5,No Disease,AB,17.395
+Yes,IDB,Multiparous,50,3.25,3,3,2.75,Disease,BB,16.01
+Yes,IDB,Multiparous,49,3,3,3,3,No Disease,AB,20.855
+Yes,IDB,Multiparous,50,2.5,2.75,2.5,2.75,No Disease,AB,22.695
+Yes,IDB,Multiparous,48,2.75,3,2.75,2.75,Disease,AB,23.62
+No,IDB,Multiparous,48,2.5,2.75,2.75,2.5,No Disease,AB,24.11
+Yes,IDB,Multiparous,48,2.25,2.5,2.5,2.75,No Disease,BB,22.865
+Yes,IDB,Multiparous,48,2.75,2.5,2.5,2.75,No Disease,AB,11.6
+Yes,IDB,Multiparous,49,3,2.75,3,3,Disease,BB,24.435
+Yes,IDB,Multiparous,49,3,2.75,2.75,2.5,Disease,AB,25.25
+Yes,IDB,Multiparous,48,2.75,2.75,2.75,2.75,Disease,AA,24.71
+Yes,IDB,Multiparous,46,2.5,2.5,2.5,2.5,Disease,AA,21.25
+Yes,IDB,Multiparous,45,2.75,2.5,2.5,2.5,No Disease,AB,23.275
+Yes,IDB,Multiparous,46,3.25,3,3,3.25,No Disease,AA,23.68
+Yes,IDB,Multiparous,44,2.75,3,3,3,Disease,AB,13.15
+Yes,IDB,Multiparous,44,2.75,2.75,2.75,3,No Disease,AB,25.76
+Yes,IDB,Multiparous,42,2.5,2.75,2.75,3,No Disease,AA,20.055
+Yes,IDB,Multiparous,43,2.5,2.5,2.5,2.75,Disease,AA,23.325
+Yes,IDB,Multiparous,81,2.75,2.5,2.5,2.5,No Disease,AA,23.34
+Yes,IDB,Multiparous,74,2.5,2.75,2.5,2.75,No Disease,BB,28.3
+Yes,IDB,Multiparous,71,2.5,2.5,2.5,2.5,Disease,BB,24.33
+Yes,IDB,Multiparous,70,2.5,2.75,2.75,2.5,Disease,AB,22.31
+No,IDB,Multiparous,70,3.5,3.25,3.25,3,Disease,AB,26.995
+Yes,IDB,Multiparous,68,3,3,2.75,2.75,No Disease,AB,24.95
+No,IDB,Multiparous,66,3.25,2.5,2.75,2.75,No Disease,AB,21.7
+Yes,IDB,Multiparous,67,3,3,3,2.75,Disease,AA,17.925
+Yes,IDB,Multiparous,62,3.5,3.25,2.75,3,No Disease,AB,27.94
+No,IDB,Multiparous,56,3.25,3.25,3.25,3,Disease,AB,18.565
+Yes,IDB,Multiparous,67,2.25,2.75,2.75,2.75,Disease,AB,18.715
+Yes,IDB,Multiparous,57,2.5,3.25,3.25,3,No Disease,AB,19.58
+Yes,IDB,Multiparous,58,3.5,2.75,3,2.75,No Disease,AB,27.065
+No,IIB,Primiparous,45,2.5,2.25,2.5,2.5,Disease,BB,16.82
+Yes,IIB,Primiparous,45,2.75,2.75,2.75,2.75,Disease,AA,22.195
+Yes,IIB,Primiparous,44,3,2.75,2.75,2.75,Disease,AB,21.409
+Yes,IIB,Primiparous,44,3.5,2.75,2.5,2.5,Disease,AA,20.195
+Yes,IIB,Primiparous,37,2.75,2.75,2.75,2.75,Disease,AB,19.258
+Yes,IIB,Primiparous,36,2.25,2.25,2.5,2.75,Disease,AA,17.136
+Yes,IIB,Primiparous,39,3.5,3,3,3,Disease,AB,22.68
+Yes,IIB,Primiparous,36,2.5,2.25,2.5,2.5,No Disease,AB,20.568
+Yes,IIB,Primiparous,38,2.5,2.25,2.5,2.5,No Disease,AB,21.462
+No,IIB,Primiparous,36,2.5,2.25,2.5,2.5,Disease,BB,13.939
+Yes,IIB,Primiparous,36,2.75,2.75,2.75,2.75,No Disease,AB,19.999
+No,IIB,Primiparous,36,2.75,2.75,2.75,2.75,Disease,AA,25.966
+Yes,IIB,Primiparous,35,3,2.75,2.5,2.5,No Disease,AA,23.045
+Yes,IIB,Primiparous,35,3,3,3,3,No Disease,AA,22.236
+Yes,IIB,Primiparous,35,2.75,2.5,2.5,2.5,No Disease,BB,21.144
+Yes,IIB,Primiparous,35,2.75,2.75,2.75,2.75,Disease,BB,21.914
+Yes,IIB,Primiparous,35,2.5,2.25,2.5,2.5,No Disease,AA,25.133
+Yes,IIB,Primiparous,35,2.75,2.75,2.75,2.75,Disease,AB,19.216
+Yes,IIB,Primiparous,35,2.5,2.25,2.5,2.5,No Disease,AA,24.91
+Yes,IIB,Primiparous,34,2.75,2.5,2.75,2.75,No Disease,AB,19.591
+Yes,IIB,Primiparous,34,2.5,2.5,2.5,2.5,Disease,AB,21.728
+No,IIB,Primiparous,34,2.5,2.25,2.5,2.5,Disease,AB,19.509
+No,IIB,Primiparous,34,3,2.75,2.75,2.5,Disease,AA,12.848
+No,IIB,Primiparous,34,3,2.75,2.5,2.5,Disease,AA,20.887
+No,IIB,Primiparous,34,3,2.75,2.75,2.5,No Disease,AB,19.274
+No,IIB,Primiparous,34,2.75,2.75,2.75,2.75,Disease,AB,24.909
+Yes,IIB,Primiparous,33,3,2.75,2.5,2.5,No Disease,AA,19.543
+Yes,IIB,Primiparous,33,3,2.75,3,3,No Disease,AB,19.264
+Yes,IIB,Primiparous,34,2.75,2.75,2.75,2.75,No Disease,BB,20.393
+Yes,IIB,Primiparous,32,2.5,2.5,2.75,3,No Disease,AB,18.996
+Yes,IIB,Primiparous,32,2.5,2.5,2.5,2.5,No Disease,AB,18.192
+No,IIB,Primiparous,33,2.75,2.75,2.75,2.75,Disease,AB,21.808
+No,IIB,Primiparous,31,2.5,2.5,2.5,2.5,Disease,AB,17.276
+Yes,IIB,Primiparous,32,3,3,3,3,Disease,AB,19.696
+No,IIB,Primiparous,32,2.5,2.25,2.5,2.5,No Disease,AA,21.647
+Yes,IIB,Primiparous,31,2.75,2.5,2.5,2.5,No Disease,AA,20.782
+No,IIB,Primiparous,31,3,2.75,2.75,2.5,Disease,AB,13.735
+Yes,IIB,Primiparous,31,3,2.75,2.75,2.5,Disease,AA,18.976
+Yes,IIB,Primiparous,31,2.75,2.75,2.75,2.75,No Disease,AB,21.782
+Yes,IIB,Primiparous,32,3.5,3.5,3.5,3.5,No Disease,AB,20.725
+Yes,IIB,Primiparous,31,2.75,2.5,2.5,2.75,Disease,AB,19.895
+No,IIB,Primiparous,31,3.25,3,3,2.5,No Disease,AA,20.62
+No,IIB,Primiparous,31,2.75,2.75,2.75,2.75,Disease,AB,21.189
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,No Disease,AA,16.876
+No,IIB,Primiparous,26,2.75,2.5,2.5,2.5,Disease,AA,16.73
+Yes,IIB,Primiparous,26,2.75,2.5,2.5,2.5,No Disease,AB,21.074
+Yes,IIB,Primiparous,25,2.75,2.75,2.75,2.75,Disease,AB,17.663
+No,IIB,Primiparous,25,2.75,2.75,2.75,2.75,No Disease,AA,17.882
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,Disease,AB,14.225
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,No Disease,AB,15.032
+No,IIB,Primiparous,25,2.75,2.5,2.5,2.5,No Disease,AB,22.335
+No,IIB,Primiparous,24,2.5,2.25,2.5,2.5,Disease,AB,18.334
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,No Disease,AB,15.639
+No,IIB,Primiparous,26,2.5,2.5,2.75,2.75,Disease,AA,23.434
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,Disease,AA,15.754
+Yes,IIB,Primiparous,25,2.75,2.5,2.5,2.5,Disease,AB,16.514
+Yes,IIB,Primiparous,25,2.5,2.5,2.75,2.75,No Disease,BB,16.61
+No,IIB,Primiparous,26,2.5,2.25,2.5,2.5,No Disease,AA,15.143
+No,IIB,Primiparous,24,2.25,2.25,2.25,2.25,Disease,BB,15.948
+Yes,IIB,Primiparous,24,2.5,2.25,2.5,2.5,Disease,AA,23.538
+Yes,IIB,Primiparous,25,2.75,2.5,2.5,2.5,Disease,AA,23.496
+Yes,IIB,Primiparous,25,2.75,2.5,2.5,2.5,Disease,AA,17.832
+Yes,IIB,Primiparous,25,2.75,2.5,2.5,2.75,No Disease,AA,15.633
+Yes,IIB,Primiparous,24,2.75,2.75,2.75,2.75,No Disease,AB,19.877
+No,IIB,Primiparous,24,2.75,2.75,2.75,2.75,No Disease,AB,12.797
+No,IIB,Primiparous,25,3,2.75,2.75,2.5,Disease,AA,12.564
+No,IIB,Primiparous,25,2.75,2.5,2.5,2.75,Disease,AA,19.371
+No,IIB,Primiparous,24,2.75,2.75,2.75,2.75,Disease,AB,19.919
+No,IIB,Primiparous,24,2.75,2.5,2.5,2.5,Disease,AB,15.98
+No,IIB,Primiparous,24,2.5,2.25,2.5,2.5,No Disease,AB,16.087
+No,IIB,Primiparous,25,2.5,2.25,2.5,2.5,Disease,AB,21.468
+No,IIB,Primiparous,25,2.75,2.75,2.75,2.75,Disease,AB,20.912
+No,IIB,Primiparous,24,3,2.75,2.75,2.5,No Disease,AB,17.198
+No,IIB,Primiparous,24,2.25,2.25,2.25,2.5,Disease,AA,14.642
+No,IIB,Primiparous,23,2.5,2.25,2.5,2.5,No Disease,AA,21.04
+Yes,IIB,Primiparous,23,2.75,2.5,2.5,2.5,Disease,AA,19.213
+Yes,IIB,Multiparous,60,2.5,2.5,2.25,2.5,Disease,AA,23.97
+Yes,IIB,Multiparous,62,3,2.75,2.75,2.75,No Disease,AA,26.598
+Yes,IIB,Multiparous,60,3.5,3.25,3,3,No Disease,AB,22.952
+No,IIB,Multiparous,60,3,2.75,2.5,2.5,No Disease,AB,24.355
+No,IIB,Multiparous,61,2.75,2.5,2.5,2.5,No Disease,AB,23.995
+Yes,IIB,Multiparous,60,3.25,3,3,3,No Disease,AA,33.165
+Yes,IIB,Multiparous,57,3,2.75,2.5,2.5,Disease,AA,25.109
+Yes,IIB,Multiparous,58,3.5,3.25,3,3,Disease,AA,24.835
+No,IIB,Multiparous,57,2.5,2.25,2.5,2.5,No Disease,AA,26.252
+Yes,IIB,Multiparous,55,3.25,2.75,2.75,2.75,No Disease,AB,22.12
+Yes,IIB,Multiparous,51,3.25,2.75,2.75,2.75,No Disease,AA,21.919
+No,IIB,Multiparous,49,3,2.75,2.5,2.5,No Disease,AB,22.303
+Yes,IIB,Multiparous,49,3,2.5,2.5,2.5,No Disease,AB,27.131
+No,IIB,Multiparous,50,2.5,2.75,2.75,2.75,Disease,AB,26.753
+No,IIB,Multiparous,48,3,2.75,2.5,2.5,No Disease,AA,19.923
+Yes,IIB,Multiparous,47,2.75,2.5,2.5,2.5,Disease,AB,26.749
+No,IIB,Multiparous,50,3,2.5,2.5,2.5,No Disease,AA,18.359
+Yes,IIB,Multiparous,50,3.25,2.5,2.5,2.5,No Disease,AB,23.333
+No,IIB,Multiparous,48,3.5,3,3,3,No Disease,BB,27.015
+Yes,IIB,Multiparous,48,3,2.5,2.5,2.5,No Disease,AA,25.75
+Yes,IIB,Multiparous,48,3.25,3,3,2.75,Disease,AA,22.309
+No,IIB,Multiparous,47,3.25,2.75,2.75,2.5,No Disease,BB,18.152
+No,IIB,Multiparous,48,3,2.75,2.5,2.5,Disease,AA,23.417
+No,IIB,Multiparous,47,3,2.5,2.5,2.5,Disease,AB,19.692
+Yes,IIB,Multiparous,47,3.25,2.75,2.75,2.75,No Disease,AA,23.584
+Yes,IIB,Multiparous,46,2.25,2.25,2.25,2.5,Disease,AB,20.857
+Yes,IIB,Multiparous,46,3,2.5,2.5,2.5,No Disease,AB,20.817
+Yes,IIB,Multiparous,47,3,3,3,3,Disease,AB,20.91
+Yes,IIB,Multiparous,47,2.75,2.75,2.75,2.75,No Disease,AA,18.126
+Yes,IIB,Multiparous,45,3.25,2.75,3,3,No Disease,AB,20.399
+No,IIB,Multiparous,46,3,2.5,2.5,2.5,Disease,AB,22.864
+Yes,IIB,Multiparous,47,3,3.25,3.25,3.25,No Disease,AB,28.35
+Yes,IIB,Multiparous,47,3.5,3.25,3,3,No Disease,AB,22.948
+Yes,IIB,Multiparous,46,2.5,2.25,2.25,2.5,No Disease,AA,27.641
+Yes,IIB,Multiparous,45,3.5,3,3,3,No Disease,AA,20.92
+No,IIB,Multiparous,46,3.5,3.25,3,3,Disease,AB,26.21
+Yes,IIB,Multiparous,44,3,2.75,2.5,2.5,Disease,AB,23.294
+No,IIB,Multiparous,44,2.5,2.5,2.5,2.5,Disease,BB,22.719
+Yes,IIB,Multiparous,42,3.5,3.25,3,3,Disease,AB,13.4
+Yes,IIB,Multiparous,36,2.75,2.75,2.75,2.75,No Disease,AB,21.139
+Yes,IIB,Multiparous,38,3.5,3.5,3.5,3,Disease,AA,19.948
+Yes,IIB,Multiparous,39,3,2.5,2.75,2.75,No Disease,AB,19.683
+Yes,IIB,Multiparous,37,3,2.5,2.5,2.5,No Disease,AB,22.179
+Yes,IIB,Multiparous,36,2.75,2.75,3,3,No Disease,AB,21.321
+Yes,IIB,Multiparous,39,3.25,2.75,2.75,2.75,No Disease,AA,26.228
+Yes,IIB,Multiparous,36,2.75,2.5,2.75,3,No Disease,AA,23.892
+Yes,IIB,Multiparous,38,2.75,2.5,2.75,2.75,Disease,AB,18.917
+Yes,IIB,Multiparous,36,2.5,2.75,2.75,2.75,Disease,AA,24.478
+Yes,IIB,Multiparous,37,3,2.5,2.5,2.5,Disease,AA,24.856
+Yes,IIB,Multiparous,38,2.75,2.75,2.75,2.75,No Disease,AB,19.781
+No,IIB,Multiparous,38,2.5,2.25,2.25,2.5,Disease,AA,22.952
+No,IIB,Multiparous,37,2.75,2.75,2.5,2.5,Disease,BB,25.732
+Yes,IIB,Multiparous,35,3.25,2.75,2.75,2.75,Disease,AB,28.999
+Yes,IIB,Multiparous,84,3.25,2.75,2.75,2.5,No Disease,AB,21.505
+No,IIB,Multiparous,80,2.5,2.25,2.25,2.5,Disease,BB,19.165
+No,IIB,Multiparous,79,2.5,2.5,2.25,2.75,No Disease,BB,24.145
+No,IIB,Multiparous,74,3,2.75,2.5,2.5,No Disease,AB,28.629
+No,IIB,Multiparous,72,3,2.5,2.5,2.75,No Disease,AA,29.888
+No,IIB,Multiparous,72,2.5,2.75,2.75,2.75,No Disease,AA,25.018
+Yes,IIB,Multiparous,71,3,2.75,2.75,2.75,Disease,AB,25.36
+No,IIB,Multiparous,73,2.75,2.5,2.5,2.5,Disease,AA,31.354
+No,IIB,Multiparous,70,3.25,2.75,2.5,2.5,Disease,AA,24.968
+Yes,IIB,Multiparous,71,3,2.75,2.5,2.5,Disease,AB,25.416
+Yes,IIB,Multiparous,69,3.25,3,2.75,2.75,Disease,AB,23.539
+Yes,IIB,Multiparous,70,3,2.5,2.5,2.75,Disease,AA,26.066
+No,IIB,Multiparous,68,2.5,2.75,2.5,3,No Disease,BB,24.28
+No,IIB,Multiparous,67,3.25,3,2.75,2.75,No Disease,BB,21.167
+Yes,IIB,Multiparous,67,3,2.75,2.75,2.75,Disease,AA,20.874
+Yes,IIB,Multiparous,61,3.5,3.25,3,3,No Disease,AA,14.819
+Yes,IIB,Multiparous,62,3.25,2.75,2.75,3,Disease,AA,27.431
+Yes,IIB,Multiparous,61,3,2.5,2.5,2.75,Disease,BB,24.11
+Yes,IIB,Multiparous,61,3.25,2.75,2.75,3,No Disease,AB,20.779
+Yes,IIB,Multiparous,61,3.25,2.75,2.75,3,No Disease,AB,23.44
+Yes,IIB,Multiparous,63,3.25,2.75,2.75,3,No Disease,AB,26.582
+Yes,IIB,Multiparous,62,3.5,3,2.75,2.75,Disease,AB,24.226
+Yes,IIB,Multiparous,61,3,2.5,2.5,2.75,No Disease,AA,25.978
+Yes,IIB,Multiparous,60,3.25,2.75,2.75,2.75,No Disease,AA,23.199
+Yes,IIB,Multiparous,60,3.25,3,2.75,2.75,Disease,AB,23.693
+Yes,IIB,Multiparous,60,3,2.5,2.5,2.75,Disease,AB,26.882
+Yes,IIB,Multiparous,61,3.25,2.75,2.75,2.5,No Disease,AA,24.808
+Yes,IIB,Multiparous,61,3.25,2.75,2.75,3,No Disease,AB,24.638
+Yes,IIB,Multiparous,59,3.5,3,3,3.25,No Disease,AB,16.078
+No,IIB,Multiparous,58,3,2.5,2.5,2.75,No Disease,AB,25.531
+Yes,IIB,Multiparous,59,3.25,3,3,3,No Disease,AA,26.045
+Yes,IIB,Multiparous,49,3.25,2.75,2.75,2.75,No Disease,AB,22.044
+Yes,IJN,Primiparous,44,3,2.75,2.75,2.75,No Disease,BB,15.36
+Yes,IJN,Primiparous,37,2.5,2.75,2.75,2.75,No Disease,BB,23.231
+No,IJN,Primiparous,37,2.75,2.5,2.5,2.5,Disease,AB,23.529
+Yes,IJN,Primiparous,37,2.75,2.5,2.5,2.5,No Disease,AA,25.701
+Yes,IJN,Primiparous,38,3.5,2.5,2.5,2.75,Disease,AB,32.195
+Yes,IJN,Primiparous,37,3,2.5,2.5,2.75,No Disease,AB,25.359
+Yes,IJN,Primiparous,36,3.25,2.75,2.75,2.75,No Disease,BB,24.849
+Yes,IJN,Primiparous,36,3.25,3,3,3,No Disease,AB,28.293
+Yes,IJN,Primiparous,36,2.5,2.5,2.5,2.5,No Disease,AB,21.208
+Yes,IJN,Primiparous,37,3.5,2.75,3,2.75,No Disease,AB,23.259
+Yes,IJN,Primiparous,36,3.25,2.5,2.5,2.5,No Disease,BB,28.03
+Yes,IJN,Primiparous,36,2.75,3,3,2.75,No Disease,BB,28.685
+No,IJN,Primiparous,36,3,2.75,2.75,2.75,No Disease,AB,18.981
+Yes,IJN,Primiparous,35,2.75,2.5,2.5,2.5,Disease,AA,19.971
+Yes,IJN,Primiparous,36,2.75,2.75,2.75,2.75,Disease,AB,25.645
+No,IJN,Primiparous,36,3.5,2.75,2.75,2.75,No Disease,AB,20.989
+Yes,IJN,Primiparous,35,3.5,2.75,2.75,2.75,No Disease,AA,25.756
+Yes,IJN,Primiparous,35,3.25,3,3,2.5,No Disease,BB,27.458
+Yes,IJN,Primiparous,35,2.75,3,3,3,No Disease,AB,26.405
+Yes,IJN,Primiparous,35,3,2.5,2.5,2.5,No Disease,AB,30.774
+Yes,IJN,Primiparous,35,2.75,2.5,2.5,2.5,No Disease,BB,20.271
+Yes,IJN,Primiparous,35,3.5,3.25,3.25,3.25,No Disease,AA,23.282
+No,IJN,Primiparous,34,2.25,2.75,2.75,2.75,No Disease,AB,22.315
+No,IJN,Primiparous,35,3.25,2.75,2.75,2.5,No Disease,AB,25.708
+Yes,IJN,Primiparous,34,3.25,3,3,3,No Disease,BB,23.498
+Yes,IJN,Primiparous,35,3,2.75,2.75,3,No Disease,AB,24.668
+Yes,IJN,Primiparous,35,2.75,2.5,2.5,2.5,Disease,AB,24.109
+Yes,IJN,Primiparous,34,2.5,2.5,2.5,2.5,No Disease,BB,28.23
+Yes,IJN,Primiparous,34,2.75,2.5,2.5,2.5,No Disease,AB,27.225
+Yes,IJN,Primiparous,34,2.5,2.5,2.5,2.5,No Disease,AA,26.286
+Yes,IJN,Primiparous,34,3,3,3,3,No Disease,AA,26.769
+Yes,IJN,Primiparous,34,2.5,2.5,2.5,2.75,No Disease,AB,20.795
+Yes,IJN,Primiparous,34,2.5,2.75,2.75,2.75,No Disease,AB,16.785
+Yes,IJN,Primiparous,34,3.25,3,3,2.75,Disease,BB,25.432
+Yes,IJN,Primiparous,33,2.5,2.5,2.5,2.75,No Disease,AA,22.124
+Yes,IJN,Primiparous,33,3.25,2.75,2.75,2.75,Disease,AB,23.766
+Yes,IJN,Primiparous,33,2.75,3,3,2.75,No Disease,BB,21.498
+Yes,IJN,Primiparous,33,2.75,2.5,2.5,2.75,No Disease,AB,15.948
+Yes,IJN,Primiparous,34,3.25,2.5,2.75,2.75,No Disease,BB,24.194
+Yes,IJN,Primiparous,33,2.5,2.5,3,3,No Disease,BB,18.822
+Yes,IJN,Primiparous,34,3.5,2.5,3,2.75,Disease,AB,26.661
+Yes,IJN,Primiparous,34,3.25,3,3,3,No Disease,AA,21.717
+Yes,IJN,Primiparous,33,3.25,3,3,3,No Disease,AA,19.83
+Yes,IJN,Primiparous,33,3.5,2.75,2.75,2.75,No Disease,BB,25.776
+Yes,IJN,Primiparous,32,3,3,3,3,No Disease,AA,22.458
+Yes,IJN,Primiparous,32,3,2.75,2.75,2.75,No Disease,BB,26
+Yes,IJN,Primiparous,32,3,2.75,2.75,2.5,No Disease,AB,18.597
+Yes,IJN,Primiparous,32,2.5,3,3,3,No Disease,AA,25.224
+Yes,IJN,Primiparous,32,2.5,2.5,2.5,2.5,No Disease,BB,21.588
+Yes,IJN,Primiparous,32,3,2.75,2.75,2.75,No Disease,AB,25.041
+Yes,IJN,Primiparous,31,2.75,2.75,3,3,No Disease,BB,24.463
+Yes,IJN,Primiparous,33,3,2.75,2.75,2.75,Disease,AA,18.806
+Yes,IJN,Primiparous,31,2.5,2.5,2.5,2.5,No Disease,BB,26.626
+Yes,IJN,Primiparous,31,3,3,3,3,No Disease,AB,21.341
+Yes,IJN,Primiparous,31,2.5,3,3,2.75,No Disease,AA,22.999
+Yes,IJN,Primiparous,31,3,2.75,2.75,2.5,Disease,AA,22.782
+Yes,IJN,Primiparous,30,2.75,2.75,2.75,2.75,No Disease,BB,22.585
+Yes,IJN,Primiparous,31,2.75,2.75,2.75,2.75,Disease,AA,21.837
+Yes,IJN,Primiparous,27,2.75,2.75,2.75,2.75,No Disease,AB,29.486
+Yes,IJN,Primiparous,26,3.25,2.75,3,3,No Disease,AB,23.889
+Yes,IJN,Primiparous,26,3.25,3.25,3.25,3.25,No Disease,AB,14.045
+Yes,IJN,Primiparous,25,2.75,2.5,2.5,2.75,No Disease,BB,16.58
+Yes,IJN,Primiparous,24,2.75,2.75,2.75,2.75,No Disease,AB,23.949
+Yes,IJN,Primiparous,24,3,2.5,2.5,2.5,No Disease,AB,16.488
+Yes,IJN,Primiparous,25,3.25,2.5,2.75,2.75,No Disease,BB,30.498
+No,IJN,Primiparous,24,2.75,2.5,2.5,2.75,Disease,AA,17.936
+Yes,IJN,Primiparous,25,3,2.75,2.75,2.5,No Disease,AB,25.446
+Yes,IJN,Primiparous,23,3,2.75,2.75,2.75,No Disease,BB,27.563
+Yes,IJN,Multiparous,68,3,2.5,2.5,2.5,Disease,AB,15.395
+Yes,IJN,Multiparous,61,3,2.5,2.75,2.75,No Disease,AA,32.538
+Yes,IJN,Multiparous,60,3,2.75,2.75,2.75,Disease,AA,31.304
+Yes,IJN,Multiparous,59,2.75,2.5,2.5,3,No Disease,AA,18.272
+Yes,IJN,Multiparous,59,2.5,2.75,2.75,2.75,Disease,AB,23.346
+Yes,IJN,Multiparous,59,3,3,3,3,Disease,AA,33.518
+Yes,IJN,Multiparous,58,2.5,2.5,2.5,3,No Disease,AB,28.23
+Yes,IJN,Multiparous,58,2.75,3,2.5,2.5,No Disease,AB,30.709
+Yes,IJN,Multiparous,59,2.75,3,3,3,No Disease,AA,32.773
+Yes,IJN,Multiparous,57,2.75,2.75,3,3,No Disease,BB,33.075
+Yes,IJN,Multiparous,56,2.75,2.75,2.75,2.75,No Disease,AB,33.332
+Yes,IJN,Multiparous,56,3.5,3.25,3.25,3.25,Disease,AA,28.286
+Yes,IJN,Multiparous,51,3.25,2.5,2.5,2.5,No Disease,AA,30.154
+Yes,IJN,Multiparous,50,3,2.75,2.75,2.75,No Disease,BB,38.25
+Yes,IJN,Multiparous,48,2.75,2.75,3,3,No Disease,AB,22.656
+Yes,IJN,Multiparous,51,3.25,2.5,2.5,2.5,No Disease,AA,35.793
+Yes,IJN,Multiparous,48,2.5,2.5,2.5,3,No Disease,AB,22.068
+Yes,IJN,Multiparous,48,2.75,2.5,2.75,2.75,Disease,AA,26.835
+Yes,IJN,Multiparous,50,2.75,2.5,2.5,2.5,No Disease,AB,32.786
+Yes,IJN,Multiparous,49,3.25,3,3,2.5,No Disease,AA,33.116
+No,IJN,Multiparous,48,2.75,2.25,2.5,2.5,No Disease,AA,22.361
+No,IJN,Multiparous,48,2.75,2.25,2.75,2.75,Disease,AB,25.068
+Yes,IJN,Multiparous,50,3.25,2.5,2.5,2.5,No Disease,AB,30.388
+Yes,IJN,Multiparous,49,3,2.5,2.75,2.75,No Disease,BB,33.066
+Yes,IJN,Multiparous,48,2.5,2.25,2.75,2.75,No Disease,BB,31.211
+Yes,IJN,Multiparous,48,3,2.5,2.5,2.75,No Disease,AB,35.706
+Yes,IJN,Multiparous,49,2.5,2.5,2.5,2.5,No Disease,BB,26.286
+Yes,IJN,Multiparous,48,2.75,2.5,2.5,2.5,No Disease,AB,30.466
+Yes,IJN,Multiparous,48,2.5,2.75,2.75,2.75,No Disease,AB,26.436
+Yes,IJN,Multiparous,47,2.25,2.25,2.5,2.5,Disease,AB,19.904
+Yes,IJN,Multiparous,47,2.25,2.5,2.5,2.75,No Disease,AA,26.568
+Yes,IJN,Multiparous,48,2.5,2.5,2.75,2.75,Disease,AA,31.934
+No,IJN,Multiparous,49,2.5,2.75,2.5,2.5,No Disease,BB,34.855
+Yes,IJN,Multiparous,49,3,2.75,2.75,2.75,No Disease,BB,31.205
+Yes,IJN,Multiparous,48,2.75,2.75,2.75,2.75,No Disease,AB,28.714
+Yes,IJN,Multiparous,49,3,2.5,2.5,2.5,No Disease,BB,30.287
+Yes,IJN,Multiparous,48,2.75,2.5,2.5,2.75,Disease,BB,30.718
+Yes,IJN,Multiparous,49,2.75,2.5,2.5,2.75,No Disease,AB,39.085
+Yes,IJN,Multiparous,47,3,2.75,2.75,2.75,No Disease,AB,25.136
+Yes,IJN,Multiparous,47,2.75,2.75,2.75,2.5,No Disease,AA,22.547
+Yes,IJN,Multiparous,48,3.25,2.75,2.75,2.5,Disease,AA,30.389
+No,IJN,Multiparous,47,2.5,2.75,2.75,2.75,No Disease,AB,29.157
+Yes,IJN,Multiparous,47,3,3,2.75,2.75,Disease,AB,26.991
+No,IJN,Multiparous,48,3.25,2.5,2.5,2.5,No Disease,AB,37.327
+Yes,IJN,Multiparous,47,3.25,2.5,2.75,2.5,Disease,AB,28.373
+Yes,IJN,Multiparous,46,3,2.5,3,3,No Disease,AB,32.023
+Yes,IJN,Multiparous,48,3.25,3,3,2.5,Disease,AB,33.086
+Yes,IJN,Multiparous,48,3.25,2.75,2.75,2.75,No Disease,AA,30.521
+Yes,IJN,Multiparous,46,2.5,2.75,2.75,2.75,No Disease,AA,24.398
+No,IJN,Multiparous,45,2.75,2.5,2.5,2.5,Disease,AB,18.749
+Yes,IJN,Multiparous,46,3,2.75,2.75,2.5,Disease,AB,26.98
+Yes,IJN,Multiparous,44,2.75,2.5,2.5,2.5,No Disease,BB,25.536
+Yes,IJN,Multiparous,44,2.25,2.25,2.5,3,No Disease,AB,20.868
+Yes,IJN,Multiparous,45,2.75,2.5,2.5,2.75,No Disease,AA,38.403
+Yes,IJN,Multiparous,44,3,2.75,2.75,2.75,Disease,AB,30.154
+No,IJN,Multiparous,45,3,2.75,2.75,2.75,No Disease,AB,38.159
+Yes,IJN,Multiparous,84,3,2.75,2.75,2.75,No Disease,AA,32.259
+Yes,IJN,Multiparous,73,3.5,3.25,3.25,2.75,Disease,AB,25.344
+Yes,IJN,Multiparous,73,2.75,2.75,2.75,3,No Disease,AB,38.793
+Yes,IJN,Multiparous,72,3,2.5,2.5,2.5,Disease,AB,25.423
+Yes,IJN,Multiparous,72,3,2.5,2.5,2.5,No Disease,AB,40.193
+Yes,IJN,Multiparous,72,3,3,3,2.75,Disease,AB,35.985
+Yes,IJN,Multiparous,73,2.75,2.5,2.5,2.5,Disease,AB,39.432
+Yes,IJN,Multiparous,72,3.25,3,3,2.75,Disease,BB,31.626
+Yes,IJN,Multiparous,72,3.25,2.5,2.5,2.5,No Disease,AB,35.966
+Yes,IJN,Multiparous,70,3.25,3,3.25,3.25,No Disease,AA,32.383
+No,IJN,Multiparous,71,3,2.5,2.75,2.75,No Disease,AB,37.886
+Yes,IJN,Multiparous,70,2.75,2.5,2.5,2.5,No Disease,AA,33.232
+Yes,IJN,Multiparous,70,2.5,2.5,2.5,2.75,No Disease,AA,23.805
+Yes,IJN,Multiparous,69,3,2.75,2.75,2.5,Disease,AA,30.021
+Yes,IJN,Multiparous,69,3.25,3,3,2.5,Disease,AB,21.127
+Yes,IJN,Multiparous,69,2.75,2.5,2.5,2.5,No Disease,AB,30.872
+No,IJN,Multiparous,69,3.25,3,2.75,2.75,No Disease,BB,32.064
+Yes,IJN,Multiparous,69,3,2.75,2.75,2.5,No Disease,BB,31.336
+Yes,IJN,Multiparous,68,3.5,3.25,3.25,3,No Disease,AB,36.297
+Yes,IJN,Multiparous,61,2.5,2.75,2.75,2.75,Disease,AB,37.147
+No,IJN,Multiparous,62,2.5,2.25,2.25,2.5,No Disease,AA,38.953
+Yes,IJN,Multiparous,60,2.75,2.5,2.5,2.5,No Disease,AB,32.633
+Yes,IJN,Multiparous,60,2.75,2.5,2.5,2.5,No Disease,AB,33.6
+Yes,IJN,Multiparous,61,2.75,2.5,2.5,2.5,No Disease,AA,32.823
+Yes,IJN,Multiparous,62,3.25,2.75,2.75,2.75,Disease,AB,34.101
+Yes,IJN,Multiparous,61,3,2.75,2.75,3,Disease,AB,26.301
+Yes,IJN,Multiparous,60,3.5,3,3.25,3.25,No Disease,BB,26.77
+Yes,IJN,Multiparous,59,3.25,3,3,3,Disease,AA,33.375
+Yes,IJN,Multiparous,59,3.5,2.75,2.75,3,No Disease,AB,34.294
+Yes,IJN,Multiparous,59,3,2.75,2.75,2.75,No Disease,AA,37.104
+Yes,IJN,Multiparous,58,3.25,3,3,3,Disease,AA,25.258
+No,IJN,Multiparous,59,2.5,2.25,2.25,2.25,Disease,AA,14.4
+Yes,IJN,Multiparous,59,3.5,3.25,3.25,3.5,No Disease,AB,27.1
+Yes,IJN,Multiparous,58,3.5,2.5,2.5,2.75,No Disease,AB,43.46
+Yes,IJN,Multiparous,57,3.25,2.75,2.75,2.75,No Disease,AB,33.775
+No,IJN,Multiparous,57,3,2.75,2.75,2.75,Disease,AB,24.965
+Yes,IJN,Multiparous,56,3.5,3.25,3.25,3.25,No Disease,AA,28.691
